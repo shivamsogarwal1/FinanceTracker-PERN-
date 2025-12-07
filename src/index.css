@@ -15,19 +15,4 @@ body {
   color: #FFFFFF; /* White text */
 }
 
-input,
-textarea,
-select {
-  color: black !important;
-}
 
-input::placeholder,
-textarea::placeholder {
-  color: #555; /* dark grey placeholder */
-}
-input,
-textarea,
-select {
-  background-color: white;
-  color: black !important;
-}
